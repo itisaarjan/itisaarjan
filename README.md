@@ -34,6 +34,13 @@ Email Me 👉 ✉️ **arjansubedi2021@gmail.com** For Collaboration/Project or 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=itisaarjan&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
+
+<p>
+  <img style="display:inline-block; margin: 0 8px;" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ayuspoudel&show_icons=true&theme=nightowl&count_private=true&hide_border=true" alt="Ayush GitHub Stats" />
+  <img style="display:inline-block; margin: 0 10px;" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ayuspoudel&layout=compact&langs_count=8&theme=nightowl&hide_border=true" alt="Top Languages" />
+  <img style="display:inline-block; margin: 0 10px;" src="https://komarev.com/ghpvc/?username=ayuspoudel" alt="Profile Views" />
+</p>
+
 ---
 [![](https://visitcount.itsvg.in/api?id=itisaarjan&icon=0&color=0)](https://visitcount.itsvg.in)
 
