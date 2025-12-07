@@ -36,9 +36,9 @@ Email Me 👉 ✉️ **arjansubedi2021@gmail.com** For Collaboration/Project or 
 
 
 <p>
-  <img style="display:inline-block; margin: 0 8px;" src="https://github-readme-stats-eight-theta.vercel.app/api?username=itsarjan&show_icons=true&theme=nightowl&count_private=true&hide_border=true" alt="GitHub Stats" />
-  <img style="display:inline-block; margin: 0 10px;" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=itsarjan&layout=compact&langs_count=8&theme=nightowl&hide_border=true" alt="Top Languages" />
-  <img style="display:inline-block; margin: 0 10px;" src="https://komarev.com/ghpvc/?username=itsarjan" alt="Profile Views" />
+  <img style="display:inline-block; margin: 0 8px;" src="https://github-readme-stats-eight-theta.vercel.app/api?username=itsaarjan&show_icons=true&theme=nightowl&count_private=true&hide_border=true" alt="GitHub Stats" />
+  <img style="display:inline-block; margin: 0 10px;" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=itsaarjan&layout=compact&langs_count=8&theme=nightowl&hide_border=true" alt="Top Languages" />
+  <img style="display:inline-block; margin: 0 10px;" src="https://komarev.com/ghpvc/?username=itsaarjan" alt="Profile Views" />
 </p>
 
 ---
